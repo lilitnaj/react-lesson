@@ -27,4 +27,8 @@ export const nav = [
     label: "Projects",
     href: "/projects",
   },
+  {
+    label: "Testimonians",
+    href: "/testimonians",
+  },
 ];
